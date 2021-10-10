@@ -18,3 +18,40 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.col{
+    border:none;
+    box-shadow: 5px 5px 40px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top:none ;
+}
+#subcribe{
+    height: 300px;
+}
+#subcribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
